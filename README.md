@@ -98,12 +98,12 @@ I am an **AI Engineer & Backend Developer** passionate about building autonomous
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunPundir231105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arjun's GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPundir231105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunPundir231105&theme=tokyonight" alt="Arjun's GitHub Profile Details" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunPundir231105&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunPundir231105&theme=tokyonight" alt="Repos Per Language" height="180" />
+<img src="https://streak-stats.vercel.app/?user=ArjunPundir231105&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
 </div>
 
