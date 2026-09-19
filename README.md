@@ -22,7 +22,7 @@ I am a **Computer Science undergraduate at Indian Institute of Information Techn
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **IIIT Ranchi** (2023 – 2027) | CGPA: 7.65
 - 💼 **Experience**: Former Junior Full-Stack Developer @ **KrishLabs** (Built scalable social platforms serving 1,000+ users)
 - 🔭 **Current Focus**: Autonomous AI Agent Frameworks, Real-Time Distributed Systems & Asynchronous Event-Driven Architectures (RabbitMQ, Docker, AWS)
-- 🌐 **Live Portfolio**: **[potfolio-nine-lime.vercel.app](https://potfolio-nine-lime.vercel.app/)**
+- 🌐 **Live Portfolio**: **[potfolio-nine-lime.vercel.app](https://profile-psi-inky.vercel.app/)**
 - ⚡ **Competitive Coding**: 200+ Problems Solved on LeetCode | 1100+ Rating on Codeforces | 2★ on CodeChef
 - 📫 **Contact**: [arjunpundir231105@gmail.com](mailto:arjunpundir231105@gmail.com) | [arjun.2023ug1055@iiitranchi.ac.in](mailto:arjun.2023ug1055@iiitranchi.ac.in)
 
